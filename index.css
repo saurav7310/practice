@@ -1,0 +1,12 @@
+.a{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+}
+.b{
+    background-color: brown;
+    width: 500px;
+    /* display: flex;
+    justify-content: center; */
+
+}
